@@ -1,6 +1,6 @@
 {
   "name": "@apestaartje/color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library with color utility functions",
   "scripts": {
     "build": "npm run clean && node ./node_modules/.bin/tsc",
